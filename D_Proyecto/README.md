@@ -1,22 +1,3 @@
-## Bienvenido al repositorio del proyecto #2  
-El mismo debe respetar la siguiente estructura de carpetas:   
-
-A_Material Aulico  
-B_Bibliografia  
-C_Ampliacion  
-D_Proyecto  
-..................| Software  
-..................| Hardware    
-README.md  
-
-Donde:  
-En **material aulico**, ira todo el material de recursos de la materia, que se publica para tal fin. Tp, Proyectos, link a sincronicos, asincronicos, recursos, etc.  
-En **Bibliografia**, material bibliografico utilizado para completar las tareas.   
-En **Ampliacion**, es la bibliografia que amplia los temas vistos  
-En **proyecto**, van las carpetas con los prototipos hardware y software si correspondiese.   
-En el **README principal**, la portada con los datos de la materia, profesor, año, integrantes y descripcion de estructura.   
-
-**IMPORTANTE:** Todas las carpetas deben tener un README.md que describa su contenido o estructura.   
 
 # Proyecto-2
 
