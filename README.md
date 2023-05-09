@@ -1,14 +1,22 @@
+![1636059224544](https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-2-grupo-03/assets/86580762/e4bb6ff9-0bb5-441d-a98f-a4a6a53577e6)
 
-# Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
+# Electrónica Microcontrolada - TST - 2023
 
-### Integrantes del Grupo 03
+Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
+
+
+## Integrantes del Grupo 03
 
 + **Dupetit Santiago** 
 + **Ortiz, Sofia**
 
-### Docente 
+
+## Docente 
 
 + **Cristian Gonzalo Vera**  
++ 
+
+## SCRUM TEAM
 
 ### Product Owner
 
@@ -22,7 +30,6 @@
 
 * 
 
-### Videos introductorios
 
 
 
