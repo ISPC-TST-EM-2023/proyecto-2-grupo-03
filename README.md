@@ -7,31 +7,30 @@ Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
 
 ## Integrantes del Grupo 03
 
-+ **Dupetit Santiago** 
 + **Ortiz, Sofia**
-
++ **Gudiño Fissore Paula Lucia**     
++ **Farias Evelin**
++ **Dupetit Santiago** 
++ **Orsili Jose Augusto**
++ **Romero Peressin Hernán Matías**
++ **Moreno Jairo Guimar Jesús**
 
 ## Docente 
 
-+ **Cristian Gonzalo Vera**  
-+ 
-
-## SCRUM TEAM
++ **Vera Cristian Gonzalo**  
 
 ### Product Owner
-
 + **Ortiz, Sofia**
 
 ### Scrum Master
++ **Orsili Jose Augusto**
 
-* 
-
-### Development Team
-
-* 
-
-
-
+## SCRUM TEAM
++ **Gudiño Fissore Paula Lucia**     
++ **Farias Evelin**
++ **Dupetit Santiago**
++ **Romero Peressin Hernán Matías**
++ **Moreno Jairo Guimar Jesús**
 
 ## Codificadores, Automatismo y Alarma
 
