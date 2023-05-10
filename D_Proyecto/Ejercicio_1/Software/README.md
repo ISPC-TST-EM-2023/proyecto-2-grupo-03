@@ -1,3 +1,0 @@
-## SOFTWARE
-
-Falta completar readme
