@@ -11,3 +11,6 @@
     
     4. Introducirse en el concepto de circuitos secuenciales y flip-flops
     como elementos de memoria.
+
+
+[![Clase sobre avance de Proyecto n° 2](https://img.youtube.com/vi/1WCUATsqdTPL5-eRsScckLG-1JfsJAcGY/vie/0.jpg)](https://drive.google.com/file/d/1WCUATsqdTPL5-eRsScckLG-1JfsJAcGY/view)
