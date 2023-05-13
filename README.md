@@ -7,13 +7,13 @@ Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
 
 ## Integrantes del Grupo 03
 
-+ **Ortiz, Sofia**
-+ **Gudiño Fissore Paula Lucia**     
-+ **Farias Evelin**
-+ **Dupetit Santiago** 
-+ **Orsili Jose Augusto**
-+ **Romero Peressin Hernán Matías**
-+ **Moreno Jairo Guimar Jesús**
++ **Ortiz, Sofia** - [GitHub:](https://github.com/Sofiortiz) Sofiortiz
++ **Gudiño Fissore Paula Lucia** - [GitHub:](https://github.com/paufissore) paufissore     
++ **Farias Evelin** - [GitHub:](https://github.com/linevefar) linevefar
++ **Dupetit Santiago** - [GitHub:](https://github.com/Santidupe) Santidupe
++ **Orsili Jose Augusto** - [GitHub:](https://github.com/joseorsili) joseorsili
++ **Romero Peressin Hernán Matías** - [GitHub:](https://github.com/hernanmatiasar) hernanmatiasa
++ **Moreno Jairo Guimar Jesús** - [GitHub:](https://github.com/GuimarMoreno) GuimarMoreno
 
 ## Docente 
 
@@ -32,25 +32,10 @@ Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
 + **Romero Peressin Hernán Matías**
 + **Moreno Jairo Guimar Jesús**
 
-## Codificadores, Automatismo y Alarma
+# Importante
 
-**"En este periodo veremos cómo se utiliza las técnicas digitales para darle solución a diferentes procesos o dispositivos"**  
+Antes de definir los roles de cada miembro del equipo, se creó la estructura del repositorio de GitHub y algunas issues. Sin embargo, después de definir los roles, se decidió que era necesario hacer algunos cambios en la estructura y en los issues creados inicialmente. Por lo tanto, se eliminaron los issues antiguos y se crearon nuevos para reflejar la nueva estructura y las tareas asignadas a cada miembro del equipo.
 
-**Objetivos:**
-1.	Comprender los conceptos básicos de la lógica combinacional y su aplicación en el diseño de sistemas digitales. 
-2.	Aprender a diseñar autómatas secuenciales para la automatización de procesos.
-3.	Adquirir habilidades en el diseño y programación de sistemas digitales microcontrolados para la implementación de sistemas de seguridad.
-4.	Desarrollar habilidades para la identificación y análisis de problemas en sistemas digitales, y para la aplicación de soluciones efectivas utilizando las herramientas y técnicas adecuadas.
-
-## Desarrollo
-
-### Ejercicio #1, lógica combinacional:                                                   01/05 al 14/05
-Diseñar un controlador de display 7 segmentos utilizando un decodificador BCD a 7 segmentos y un circuito combinacional que convierta la entrada decimal en formato BCD. El controlador debe ser capaz de mostrar la entrada decimal en el display.
-
-### Ejercicio #2, lógica secuencial:                                                        15/05 al 21/05
-Diseñar y programar un autómata secuencial (Moore o Mealy) para implementar el control de una línea de carga de paquetes de harina. El proceso de carga de paquetes debe iniciarse cuando la tolva tiene harina, las condiciones de seguridad están aseguradas y el operador pulsa el botón "start". Se deben definir al menos 6 estados para el automatismo.
-
-### Ejercicio #3, lógica microcontrolada:                                              22/05 al 28/05 
-Diseñar e implementar una alarma de hogar microcontrolada.
+Pedimos disculpas por cualquier inconveniente que esto pueda haber causado y esperamos que estos cambios nos permitan trabajar de manera más eficiente y colaborativa.
 
 
