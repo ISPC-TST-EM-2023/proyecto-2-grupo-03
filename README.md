@@ -14,6 +14,7 @@ Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
 + **Orsili Jose Augusto** - [GitHub:](https://github.com/joseorsili) joseorsili
 + **Romero Peressin Hernán Matías** - [GitHub:](https://github.com/hernanmatiasar) hernanmatiasa
 + **Moreno Jairo Guimar Jesús** - [GitHub:](https://github.com/GuimarMoreno) GuimarMoreno
++ **Villafañe Paola Daniela** - [GitHub:](https://github.com/DPaolaVillafane) DPaolaVillafane
 
 ## Docente 
 
@@ -31,6 +32,7 @@ Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
 + **Dupetit Santiago**
 + **Romero Peressin Hernán Matías**
 + **Moreno Jairo Guimar Jesús**
++ **Villafañe Paola Daniela**
 
 # Importante
 
