@@ -13,3 +13,8 @@ entre Mealy y Moore.
     
 4. Entender Timing en CLS: Comprender cómo el tiempo y la
 sincronización afectan a la funcionalidad de un CLS.
+
+## Video: Se comparte video con clase asincronica correspondiente al periodo
+
+ [![Material Aulico](https://drive.google.com/file/d/1K3JqSUjykx3H4wj-Sz58V9AEO8H7L2ba/view)](https://drive.google.com/file/d/1K3JqSUjykx3H4wj-Sz58V9AEO8H7L2ba/view)
+
