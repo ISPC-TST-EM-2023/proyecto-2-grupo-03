@@ -1,44 +1,42 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11032531&assignment_repo_type=AssignmentRepo)
-## Bienvenido al repositorio del proyecto #2  
-El mismo debe respetar la siguiente estructura de carpetas:   
+![1636059224544](https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-2-grupo-03/assets/86580762/e4bb6ff9-0bb5-441d-a98f-a4a6a53577e6)
 
-A_Material Aulico  
-B_Bibliografia  
-C_Ampliacion  
-D_Proyecto  
-..................| Software  
-..................| Hardware    
-README.md  
+# Electrónica Microcontrolada - TST - 2023
 
-Donde:  
-En **material aulico**, ira todo el material de recursos de la materia, que se publica para tal fin. Tp, Proyectos, link a sincronicos, asincronicos, recursos, etc.  
-En **Bibliografia**, material bibliografico utilizado para completar las tareas.   
-En **Ampliacion**, es la bibliografia que amplia los temas vistos  
-En **proyecto**, van las carpetas con los prototipos hardware y software si correspondiese.   
-En el **README principal**, la portada con los datos de la materia, profesor, año, integrantes y descripcion de estructura.   
+Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
 
-**IMPORTANTE:** Todas las carpetas deben tener un README.md que describa su contenido o estructura.   
+## Integrantes del Grupo 03
 
-# Proyecto-2
++ **Ortiz, Sofia** - [GitHub:](https://github.com/Sofiortiz) Sofiortiz
++ **Gudiño Fissore Paula Lucia** - [GitHub:](https://github.com/paufissore) paufissore     
++ **Farias Evelin** - [GitHub:](https://github.com/linevefar) linevefar
++ **Dupetit Santiago** - [GitHub:](https://github.com/Santidupe) Santidupe
++ **Orsili Jose Augusto** - [GitHub:](https://github.com/joseorsili) joseorsili
++ **Romero Peressin Hernán Matías** - [GitHub:](https://github.com/hernanmatiasar) hernanmatiasa
++ **Moreno Jairo Guimar Jesús** - [GitHub:](https://github.com/GuimarMoreno) GuimarMoreno
++ **Villafañe Paola Daniela** - [GitHub:](https://github.com/DPaolaVillafane) DPaolaVillafane
 
-## Codificadores, Automatismo y Alarma
+## Docente 
 
-**"En este periodo veremos cómo se utiliza las técnicas digitales para darle solución a diferentes procesos o dispositivos"**  
++ **Vera Cristian Gonzalo**  
 
-**Objetivos:**
-1.	Comprender los conceptos básicos de la lógica combinacional y su aplicación en el diseño de sistemas digitales. 
-2.	Aprender a diseñar autómatas secuenciales para la automatización de procesos.
-3.	Adquirir habilidades en el diseño y programación de sistemas digitales microcontrolados para la implementación de sistemas de seguridad.
-4.	Desarrollar habilidades para la identificación y análisis de problemas en sistemas digitales, y para la aplicación de soluciones efectivas utilizando las herramientas y técnicas adecuadas.
+### Product Owner
++ **Ortiz, Sofia**
 
-## Desarrollo
+### Scrum Master
++ **Orsili Jose Augusto**
 
-### Ejercicio #1, lógica combinacional:                                                   01/05 al 14/05
-Diseñar un controlador de display 7 segmentos utilizando un decodificador BCD a 7 segmentos y un circuito combinacional que convierta la entrada decimal en formato BCD. El controlador debe ser capaz de mostrar la entrada decimal en el display.
+## SCRUM TEAM
++ **Gudiño Fissore Paula Lucia**     
++ **Farias Evelin**
++ **Dupetit Santiago**
++ **Romero Peressin Hernán Matías**
++ **Moreno Jairo Guimar Jesús**
++ **Villafañe Paola Daniela**
 
-### Ejercicio #2, lógica secuencial:                                                        15/05 al 21/05
-Diseñar y programar un autómata secuencial (Moore o Mealy) para implementar el control de una línea de carga de paquetes de harina. El proceso de carga de paquetes debe iniciarse cuando la tolva tiene harina, las condiciones de seguridad están aseguradas y el operador pulsa el botón "start". Se deben definir al menos 6 estados para el automatismo.
+# Importante
 
-### Ejercicio #3, lógica microcontrolada:                                              22/05 al 28/05 
-Diseñar e implementar una alarma de hogar microcontrolada.
+Antes de definir los roles de cada miembro del equipo, se creó la estructura del repositorio de GitHub y algunas issues. Sin embargo, después de definir los roles, se decidió que era necesario hacer algunos cambios en la estructura y en los issues creados inicialmente. Por lo tanto, se eliminaron los issues antiguos y se crearon nuevos para reflejar la nueva estructura y las tareas asignadas a cada miembro del equipo.
+
+Pedimos disculpas por cualquier inconveniente que esto pueda haber causado y esperamos que estos cambios nos permitan trabajar de manera más eficiente y colaborativa.
+
 
