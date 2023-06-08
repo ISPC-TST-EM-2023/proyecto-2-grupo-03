@@ -40,3 +40,4 @@ Antes de definir los roles de cada miembro del equipo, se creó la estructura de
 Pedimos disculpas por cualquier inconveniente que esto pueda haber causado y esperamos que estos cambios nos permitan trabajar de manera más eficiente y colaborativa.
 
 
+
